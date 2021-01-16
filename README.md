@@ -5,3 +5,64 @@ IEHistory Viewer, Windows Firewall Log Viewer, SNMP Reader.
 It's tested by: Win7, WinXP, Win2k, Win2k3.
 Freeware. 
 http://nyuk.narod.ru/soft.html
+
+IP Calculator (qip.exe)
+Input data:
+- required quantity of subnets;
+- primary Internet address;
+- class of IP-net.
+Output data:
+- real quantity of subnets;
+- total quantity of hosts;
+- range of IP addresses.
+
+IP Map Scanner (pscan.exe)
+- ping IP address range
+- scanning active ports by IP address range
+- ping before scanning active ports
+- MAC resolution
+- ARP cashe
+- visual map result
+- save result
+
+Audit LAN Scanner (lscan.exe)
+- scanning Groups, Hosts, Users of LAN
+- scanning sharing resources of host
+- MAC resolution
+- 'Properties' page of host
+- ARP cashe
+- local active ports
+- local LAN traffic control
+- save result.
+
+LAN Packet Interceptor (iscan.exe)
+- LAN packets sniffing
+- select type of sniffing
+- packet: size, direction, content
+- protocol resolution
+- destination and source: MAC, IP, Ports
+- highlight result's values
+- save result.
+
+Windows Internet Explorer history log viewer (Iehistory.exe)
+Features:
+- explore by index.dat
+- select type of Value or Type
+- packet: date, time, user, link, cache, schemes (RFC1630)
+- highlight result's values
+- save result.
+
+Windows firewall log viewer (ICFLogView.exe)
+Features:
+- view log-file online
+- select type of Value
+- destination and source: action, protocol, IP, ports, etc.
+- highlight result's values
+- save result.
+
+SNMP reader (snmpeye.exe)
+Features:
+- walking by OID
+- select type of OID or Value
+- highlight result's values
+- save result.
