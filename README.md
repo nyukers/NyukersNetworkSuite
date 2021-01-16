@@ -7,13 +7,11 @@ Freeware.
 http://nyuk.narod.ru/soft.html
 
 IP Calculator (qip.exe)
-Input data:
-- required quantity of subnets;
-- primary Internet address;
-- class of IP-net.
-Output data:
-- real quantity of subnets;
-- total quantity of hosts;
+- required quantity of subnets
+- primary Internet address
+- class of IP-nets
+- real quantity of subnets
+- total quantity of hosts
 - range of IP addresses.
 
 IP Map Scanner (pscan.exe)
@@ -23,7 +21,7 @@ IP Map Scanner (pscan.exe)
 - MAC resolution
 - ARP cashe
 - visual map result
-- save result
+- save result.
 
 Audit LAN Scanner (lscan.exe)
 - scanning Groups, Hosts, Users of LAN
